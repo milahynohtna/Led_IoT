@@ -1,0 +1,27 @@
+# === FLUTTER ===
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# === ANDROID ===
+android/.gradle/
+android/app/build/
+
+# === iOS ===
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# === EMBEDDED ===
+.pio/
+build/
+*.elf
+*.bin
+*.hex
+
+# === SYSTEM FILES ===
+.DS_Store
+*.log
+*.tmp
