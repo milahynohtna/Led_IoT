@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .pio
 =======
+=======
+>>>>>>> 5a38d38 (Update to 2 LED)
 # === FLUTTER ===
 build/
 .dart_tool/
@@ -28,4 +31,10 @@ build/
 .DS_Store
 *.log
 *.tmp
+<<<<<<< HEAD
 >>>>>>> 4ca8916 (Initial commit for LED IoT project)
+=======
+=======
+.pio
+>>>>>>> 14c59af (Update to 2 LED)
+>>>>>>> 5a38d38 (Update to 2 LED)
